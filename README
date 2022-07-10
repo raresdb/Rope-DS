@@ -1,0 +1,14 @@
+#Butilca Rares
+
+This is an implementation of a rope structure used for storing words.
+
+The operations permited by this structure are the following:
+
+- concatenation of 2 words
+- obtaining a character by index
+- obtaining a string from an interval
+- splitting a word in 2
+- inserting a string inside another
+- deleting a substring by interval.
+
+Rope: https://en.wikipedia.org/wiki/Rope_(data_structure)
